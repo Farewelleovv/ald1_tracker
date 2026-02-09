@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { supabase } from "@/ald1_tracker/lib/supabase";
+import { supabase } from "@/lib/supabase";
 
 const MEMBERS = [
   "Leo",
